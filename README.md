@@ -11,5 +11,5 @@ https://youtu.be/nt501QYxuKs
 # :earth_americas: Link
 - [MyPage](http://www.u5-official.com/)
 - [YouTube](https://www.youtube.com/channel/UChAhO3nKwVdZ5GYMF-HkE1g?view_as=subscriber)
-- twitter
+- [twitter](https://twitter.com/u5musicxit)
  <img src="https://user-images.githubusercontent.com/58324998/73611924-a7711c00-462a-11ea-8ef9-087403752fab.jpg" width="200">
