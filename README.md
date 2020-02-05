@@ -2,6 +2,9 @@
 ![ball](https://gyazo.com/bc5e5649b77560bd6a619348edb69236/raw)
   
 p5.sound.jsを用いて制作しました振幅に反応し振動します。音源もオリジナルです！
+  
+<img src="https://user-images.githubusercontent.com/58324998/73807376-97fef800-480f-11ea-97fb-1ab2afbfbbbb.png" width="100px">
+  
 ***
 # :dizzy: YouTube
 https://youtu.be/nt501QYxuKs
